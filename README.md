@@ -1,4 +1,6 @@
 # gestDinner
 
-First project with AngularJS during my training at the Wild Code School.
-Project in collaboration with paul-ka & qgallois.
+##First project with AngularJS at the Wild Code School.
+
+##Colabs
+paul-ka & qgallois.
